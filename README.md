@@ -1,7 +1,7 @@
 # Tickets Analyzer
 
 ### Linter status:
-[![Actions Status](https://github.com/paulvino/tickets-analyezer/actions/workflows/main.yml/badge.svg)](https://github.com/paulvino/tickets-analyzer/actions/workflows/main.yml)
+[![Actions Status](https://github.com/paulvino/tickets-analyzer/actions/workflows/main.yml/badge.svg)](https://github.com/paulvino/tickets-analyzer/actions/workflows/main.yml)
 
 ### Description:
 Small and simple CLI-application to check JSON-formatted file "tickets.json" and print to command line:
